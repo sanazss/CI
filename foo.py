@@ -1,5 +1,5 @@
 import numpy as np # for the sqrt function
-
+#do it
 def solve_quadratic(a,b,c):
     """Solve a quadratic equation ax^2+bx+c=0 in the reals"""
     if 0<b**2-4.0*a*c:
